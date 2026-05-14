@@ -5,3 +5,4 @@
 | Platform | Problem | Difficulty | Solution | Date |
 | --- | --- | --- | --- | --- |
 | GeeksforGeeks | Second Largest | EasyAccuracy | [View Code](Second Largest/solution.java) | 5/14/2026 |
+| GeeksforGeeks | Move All Zeroes to End | EasyAccuracy | [View Code]([GFG] Move All Zeroes to End/solution.java) | 5/14/2026 |
