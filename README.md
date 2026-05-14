@@ -1,4 +1,4 @@
-# Ã°ÂÂÂ My Coding Journey (AlgoSync)
+# ÃÂ°ÃÂÃÂÃÂ My Coding Journey (AlgoSync)
 
 | Platform | Problem | Difficulty | Solution | Date |
 | --- | --- | --- | --- | --- |
