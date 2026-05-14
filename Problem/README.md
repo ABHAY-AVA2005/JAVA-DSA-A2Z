@@ -133,6 +133,24 @@ Topic Tags
 Related Articles
 Report An Issue
 If you are facing any issue on this page. Please let us know.
+Output Window
+Compilation Results
+Custom Input
+Problem Solved Successfully
+
+Suggest Feedback
+
+Test Cases Passed
+1120 / 1120
+Attempts : Correct / Total
+You can see all your attempts in submission tab
+Accuracy :
+100%
+Points Scored 
+You can see the score in submission tab
+Time Taken
+0.77
+Calculating score…
 Java (21)
 Add note
 Start Timer
