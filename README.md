@@ -16,3 +16,4 @@
 | HackerRank | electricity bill units Submission #1408379734 | Medium | [View Code]([HR] electricity bill units Submission _1408379734/solution.java) | 5/16/2026 |
 | HackerRank | armstrong number or Narcissistic number | Medium | [View Code]([HR] armstrong number or Narcissistic number/solution.java) | 5/16/2026 |
 | HackerRank | Armstrong Numbers in a Range 1 Submission #1408383648 | Medium | [View Code]([HR] Armstrong Numbers in a Range 1 Submission _1408383648/solution.java) | 5/16/2026 |
+| HackerRank | Palindrome Number Checker 5 Submission #1408383675 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
