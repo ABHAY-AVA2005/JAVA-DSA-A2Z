@@ -9,3 +9,4 @@
 | GeeksforGeeks | Reverse an Array | EasyAccuracy | [View Code]([GFG] Reverse an Array/solution.java) | 5/14/2026 |
 | GeeksforGeeks | Rotate Array | MediumAccuracy | [View Code]([GFG] Rotate Array/solution.java) | 5/14/2026 |
 | GeeksforGeeks | Stock Buy and Sell – Max one Transaction Allowed | EasyAccuracy | [View Code]([GFG] Stock Buy and Sell _ Max one Transaction Allowed/solution.java) | 5/15/2026 |
+| HackerRank | Greatest Of Three 3 Submission #1408379393 | Medium | [View Code]([HR] Greatest Of Three 3 Submission _1408379393/solution.java) | 5/16/2026 |
