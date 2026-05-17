@@ -19,3 +19,4 @@
 | HackerRank | Palindrome Number Checker 5 Submission #1408383675 | Medium | [View Code]([HR] Palindrome Number Checker 5 Submission _1408383675/solution.java) | 5/16/2026 |
 | HackerRank | Reverse and Add to Make a Palindrome Submission #1408388627 | Medium | [View Code]([HR] Reverse and Add to Make a Palindrome Submission _1408388627/solution.java) | 5/17/2026 |
 | HackerRank | Find the Maximum Element(spec) Submission #1408408804 | Medium | [View Code]([HR] Find the Maximum Element_spec_ Submission _1408408804/solution.java) | 5/17/2026 |
+| HackerRank | Leader Board Array -Spec Submission #1408409218 | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409218/solution.java) | 5/18/2026 |
