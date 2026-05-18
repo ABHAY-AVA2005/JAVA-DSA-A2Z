@@ -23,3 +23,4 @@
 | HackerRank | Leader Board Array -Spec Submission #1408409238 | Medium | [View Code]([HR] Leader Board Array _Spec Submission _1408409238/solution.java) | 5/18/2026 |
 | HackerRank | Digit Position Weighted Sum 1 Discussion | Medium | [View Code]([HR] Digit Position Weighted Sum 1 Discussion/solution.java) | 5/18/2026 |
 | HackerRank | Digit Position Weighted Sum 1 Submission #1408416185 | Medium | [View Code]([HR] Digit Position Weighted Sum 1 Submission _1408416185/solution.java) | 5/18/2026 |
+| HackerRank | Digit Position Weighted Sum 1 Submission #1408416391 | Medium | [View Code]([HR] Digit Position Weighted Sum 1 Submission _1408416391/solution.java) | 5/18/2026 |
