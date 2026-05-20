@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | LeetCode | 0 | ![LeetCode](https://img.shields.io/badge/LeetCode-0-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 5 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| HackerRank | 20 | ![HackerRank](https://img.shields.io/badge/HackerRank-20-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **25** | ![Total](https://img.shields.io/badge/Total-25-007ACC?style=flat-square) |
+| HackerRank | 21 | ![HackerRank](https://img.shields.io/badge/HackerRank-21-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
+| **Total** | **26** | ![Total](https://img.shields.io/badge/Total-26-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -38,3 +38,4 @@
 | 23 | HackerRank | Threshold Breaking Point Submission #1408441634 | Medium | [View Code]([HR] Threshold Breaking Point Submission _1408441634/solution.java) | 5/19/2026 |
 | 24 | HackerRank | Alternating Prime Check Sequence | Medium | [View Code]([HR] Alternating Prime Check Sequence/solution.java) | 5/19/2026 |
 | 25 | HackerRank | Alternating Prime Check Sequence Submission #1408442406 | Medium | [View Code]([HR] Alternating Prime Check Sequence Submission _1408442406/solution.java) | 5/19/2026 |
+| 26 | HackerRank | Count Digits Remainder | Medium | [View Code]([HR] Count Digits Remainder/solution.java) | 5/20/2026 |
